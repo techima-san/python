@@ -1,2 +1,2 @@
 # python
-My studies in Python
+This repository puporse is store what I learn about Python and Unit Tests.
